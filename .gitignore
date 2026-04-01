@@ -1,1 +1,26 @@
+# OS
 .DS_Store
+Thumbs.db
+
+# Backups
+*.bak
+*.backup
+*.orig
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Compressed
+*.zip
+*.tar.gz
+*.tgz
+*.rar
+
+# Claude
+.claude/
+
+# Kitty backups
+kitty.conf.bak
